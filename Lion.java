@@ -2,7 +2,7 @@
 public class Lion {
 String gender;
 String size;
-int manesize;
+String manesize;
 void roar(){
 System.out.println("ROAR!");	
 }
