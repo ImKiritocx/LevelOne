@@ -12,7 +12,7 @@ System.out.println("*Run*");
 Lion(String gender,String size,int manesize){
 	this.gender = gender;
 	this.size = size;
-	this.manesize = manesize;
+	//this.manesize = manesize;
 	
 	
 }
